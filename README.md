@@ -1,4 +1,4 @@
-# **Applied Data Science Student | ML & AI Enthusiast | Organizational Leader**
+# **Applied Data Science Student | ML & Data Analytics Enthusiast | Engaged in Orgs.**
 
 👋Hey! I'm Bistiana, a third-year Applied Data Science student interest in machine learning, data science, and neural networks.</br> 
 📌I actively participate in organizations and have hands on experience contributing to data projects.</br>
