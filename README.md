@@ -1,5 +1,7 @@
 # 👋 Hey! I'm Bistiana
 
+---
+
 ### **Applied Data Science Student | ML & Data Analytics Enthusiast**
 
 I'm a third-year **Applied Data Science student** interested in **Machine Learning, Data Science, and Data Analytics**.
